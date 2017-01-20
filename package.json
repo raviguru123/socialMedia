@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/raviguru123/socialMedia#readme",
   "dependencies": {
+    "bower": "^1.8.0",
     "express": "^4.14.0"
   }
 }

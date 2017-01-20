@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "description": "i am start working in social media application",
+  "main": "app.js",
+  "license": "ISC",
+  "homepage": "https://github.com/raviguru123/socialMedia",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
