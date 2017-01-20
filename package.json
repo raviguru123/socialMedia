@@ -1,0 +1,22 @@
+{
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "i am start working in social media application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raviguru123/socialMedia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raviguru123/socialMedia/issues"
+  },
+  "homepage": "https://github.com/raviguru123/socialMedia#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
