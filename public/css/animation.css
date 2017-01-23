@@ -1,0 +1,22 @@
+body{
+	background-color: gray;
+	text-align: center;
+}
+
+.wrapper{
+	width:100%;
+	padding:10px;
+	box-sizing:border-box;
+}
+
+
+img {
+	border-radius:50%;
+	transition:transform 1.0s ease-in-out;
+}
+
+img:hover{
+	transform:rotate(360deg);
+} 
+
+

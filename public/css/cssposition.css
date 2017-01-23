@@ -1,0 +1,46 @@
+
+header{
+	position:relative;
+	width: 100%;
+	top:0px;
+	left: 0px
+	height: 10%;
+	background-color: blue;
+}
+
+.leftsidebar{
+	position:absolute;
+	left: 0px;
+	width:20%;  
+	background-color: red;
+}
+
+.bodyimage{
+	float: right;
+	width: 100px;
+	height: 200px;
+	margin: 20px;
+	box-sizing: border-box;
+	border-radius: 50%;
+	transition:transform 1.0s ease-in-out;
+}
+.bodyimage:hover{
+	transform:rotate(360deg);
+}
+
+
+.container{
+	position: relative;
+	margin-left: 20%;
+	height: 80%;
+
+	background-color: gray;
+}
+
+.footer{
+	position:fixed;
+	width: 100%;
+	height: 10%;
+	bottom: 0px;
+	background-color: green;
+}
